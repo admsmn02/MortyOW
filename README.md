@@ -17,7 +17,7 @@
 
 <h4 align="center"> Hobbies </h4>
 -🖱️ Former Semi-Pro Overwatch Player
-
+<br>
 -♟️ Chess player 
 
 
