@@ -1,4 +1,4 @@
-<h1 align="center"> Bonjour ! Moi c'est Adam Simon
+<h1 align="center"> Bonjour ! Moi c'est Adam Simon </h1>
 
 
 
