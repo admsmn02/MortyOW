@@ -3,8 +3,8 @@
 
 
 <h3 align="center"> About me </h3>
-- 👋 Hi, I’m Adam SIMON
 
+- My name is Adam
 - 👓 I'm a 2nd year at IIM, in France
 
 - 🚩 I speak French and English and a bit of Mandarin.
