@@ -10,11 +10,14 @@
 - 🚩 I speak French and English and a bit of Mandarin.
 
 - 👀 I’m interested in Back-end, and more precisely PHP
+
 - 🌱 I’m currently learning how to use GitHub correctly
+
 - 📫 You can contact me on adam.simon@edu.devinci.fr
 
 <h4 align="center"> Hobbies </h4>
 -🖱️ Former Semi-Pro Overwatch Player
+
 -♟️ Chess player 
 
 
