@@ -1,4 +1,5 @@
-<h1 align="center"> Bonjour ! Moi c'est Adam Simon </h1>
+<h1 align="center"> Bonjour ! Moi c'est Adam Simon 🕶️ </h1>
+<h2 align="center"> Etudiant en Coding et Digital Innovation </h2>
 
 
 
