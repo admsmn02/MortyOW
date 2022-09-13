@@ -1,3 +1,7 @@
+<h1 align="center"> Bonjour ! Moi c'est Adam Simon
+
+
+
 - 👋 Hi, I’m Adam SIMON
 - 👓 I'm a 2nd year at IIM, in France
 - 🚩 I speak French and English and a bit of Mandarin.
