@@ -1,14 +1,20 @@
-<h1 align="center"> Bonjour ! Moi c'est Adam Simon 🕶️ </h1>
-<h2 align="center"> Etudiant en Coding et Digital Innovation </h2>
+<h1 align="center"> Hey ! I'm Adam Simon 🕶️ </h1>
+<h2 align="center"> Coding & Digital Innovation student </h2>
 
 
-
+<h3 align="center"> About me </h3>
 - 👋 Hi, I’m Adam SIMON
 - 👓 I'm a 2nd year at IIM, in France
 - 🚩 I speak French and English and a bit of Mandarin.
 - 👀 I’m interested in Back-end, and more precisely PHP
 - 🌱 I’m currently learning how to use GitHub correctly
 - 📫 You can contact me on adam.simon@edu.devinci.fr
+
+<h4 align="center"> Hobbies </h4>
+-🖱️ Former Semi-Pro Overwatch Player
+-♟️ Chess player 
+
+
 
 <!---
 MortyOW/MortyOW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
