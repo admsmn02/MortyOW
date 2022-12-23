@@ -5,9 +5,9 @@
 <h3 align="center"> About me </h3>
 
 - My name is Adam
-- 👓 I'm a 2nd year at IIM, in France
+- 👓 I'm a 2nd year student at IIM, in France
 
-- 🚩 I speak French and English and a bit of Mandarin.
+- 🚩 I speak French, English and a bit of Mandarin.
 
 - 👀 I’m interested in Back-end, and more precisely PHP
 
