@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in Back-end, and more precisely PHP
 
-- 🌱 I’m currently learning how to use GitHub correctly
+- 🌱 I’m currently learning Node.js and Solidity
 
 - 📫 You can contact me on adam.simon@edu.devinci.fr
 
